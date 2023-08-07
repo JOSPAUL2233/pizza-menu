@@ -65,7 +65,7 @@ function Header() {
 
   return (
     <header className="header">
-      <h1 style={styles}>here goes the heading!</h1>
+      <h1 style={styles}>ORDER NOW!</h1>
     </header>
   );
 }
